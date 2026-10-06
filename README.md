@@ -19,3 +19,6 @@ Administrar las versiones de un proyecto y comprender el flujo colaborativo.
 
 ## Autor
 Edgar Eduardo Gomez Martinez
+
+## Estado del proyecto
+Prototipo inicial.
