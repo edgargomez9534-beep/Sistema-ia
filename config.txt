@@ -1,0 +1,3 @@
+nombre_modelo=clasificaros
+version=1
+entorno=desarrollo
