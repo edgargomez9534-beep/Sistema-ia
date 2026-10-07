@@ -1,2 +1,2 @@
 def predecir(datos):
-   return "Prediccion simulada"
+    return {"estado": "Exito", "prediccion": "Prediccion simulada mejorada"}
